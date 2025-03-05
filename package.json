@@ -1,0 +1,24 @@
+{
+  "name": "platzi---typescript-tipos-avanzados-y-funciones",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsonv/Platzi---TypeScript-Tipos-Avanzados-y-Funciones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsonv/Platzi---TypeScript-Tipos-Avanzados-y-Funciones/issues"
+  },
+  "homepage": "https://github.com/edsonv/Platzi---TypeScript-Tipos-Avanzados-y-Funciones#readme",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
