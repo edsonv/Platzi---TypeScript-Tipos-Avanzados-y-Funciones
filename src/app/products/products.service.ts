@@ -28,7 +28,7 @@ export const addProduct = (data: CreateProductDto): Product => {
 };
 
 export const updateProduct = (
-  id: string | number,
+  id: Product['id'],
   changes: UpdateProductDto
 ): Product => {
   // data.id = 'lkajsdhlbfa';
